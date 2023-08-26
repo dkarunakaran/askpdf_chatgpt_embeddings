@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+pdfs/*
+docs/*
+config.yml
